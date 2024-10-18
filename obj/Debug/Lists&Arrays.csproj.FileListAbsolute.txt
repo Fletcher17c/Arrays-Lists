@@ -1,0 +1,7 @@
+C:\Users\Mario\source\repos\Lists&Arrays\Lists&Arrays\bin\Debug\Lists&Arrays.exe.config
+C:\Users\Mario\source\repos\Lists&Arrays\Lists&Arrays\bin\Debug\Lists&Arrays.exe
+C:\Users\Mario\source\repos\Lists&Arrays\Lists&Arrays\bin\Debug\Lists&Arrays.pdb
+C:\Users\Mario\source\repos\Lists&Arrays\Lists&Arrays\obj\Debug\Lists&Arrays.csproj.AssemblyReference.cache
+C:\Users\Mario\source\repos\Lists&Arrays\Lists&Arrays\obj\Debug\Lists&Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Mario\source\repos\Lists&Arrays\Lists&Arrays\obj\Debug\Lists&Arrays.exe
+C:\Users\Mario\source\repos\Lists&Arrays\Lists&Arrays\obj\Debug\Lists&Arrays.pdb
